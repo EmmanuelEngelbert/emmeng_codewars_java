@@ -15,5 +15,7 @@ public class Main {
 		System.out.println(MinMaxKata.max(test));
 		
 		System.out.println(Troll.disemvowel("You are awesomE"));
+		
+		System.out.println(MorseCodeDecoder.decode(".... . -.--   .--- ..- -.. .   ···−−−···"));
 	}
 }
